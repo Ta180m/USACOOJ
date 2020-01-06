@@ -8,7 +8,7 @@ Usage:
 ...
 
 void code(ifstream& cin, ofstream& cout) {
-  
+  // Code that normally goes in the main function
   ...
   
 }
