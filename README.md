@@ -7,7 +7,7 @@ Usage:
 
 ...
 
-void main(ifstream& cin, ofstream& cout) {
+void code(ifstream& cin, ofstream& cout) {
   
   ...
   
